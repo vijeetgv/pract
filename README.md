@@ -1,2 +1,1 @@
-# pract
-All my leetcode madness
+Some leetcode madness...
