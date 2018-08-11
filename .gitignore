@@ -1,0 +1,11 @@
+/.project
+/target
+/pract.log*
+/.idea
+/pract.iml
+/out
+/.slcache
+*.log
+*.iml
+*.hprof
+.DS_Store
