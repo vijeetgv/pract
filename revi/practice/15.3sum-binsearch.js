@@ -7,7 +7,8 @@ var threeSum = function(nums) {
 
     if(nums!=null && nums.length) {
 
-        nums = nums.sort(function (a, b) { return b-a; });
+
+        nums = nums.sort(function (a, b) { return a-b; });
 
         var l = nums.length;
         var resultSet = new Set();
